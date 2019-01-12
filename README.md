@@ -10,7 +10,7 @@
        </main>
         <footer>
       <p><strong>Posted by: Mr Hamza Chellouf </strong></p>
-      <p>Contact information:<a href="hamza21chellouf@gmail.com"></a>
+      <p>Contact information:<a href="hamza21chellouf@gmail.com">hamza21chellouf@gmail.com</a>
       </footer>
       
        
