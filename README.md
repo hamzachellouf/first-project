@@ -2,7 +2,7 @@
                                                  
 <mian>
   <head>
-    <img src="image sampel"href="http://www.lovethispic.com/uploaded_images/136562-Beautiful-Butterfly.jpg" >
+    <img src="image sampel"="http://www.lovethispic.com/uploaded_images/136562-Beautiful-Butterfly.jpg" width=50  >
   </head>
   <h1><em> my first project</em></h1>
        <h2>learn the programming and coding on HTML 5</h2>
