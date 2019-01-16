@@ -2,7 +2,8 @@
 <mian>
    <h1> my first project</h1><img src="https://cdn.pixabay.com/photo/2015/06/23/23/12/hand-819279_960_720.jpg"width="200">
    <h2>learn the programming and coding on HTML 5</h2>
-     <p><en>the Programming is something new about me I heard that from my closest friend The surprise When he asked for my advice about the field he wanted to choose in his career I always advised him about the world of computers because he was and he still in my eyes a intelligent friend 
+    <br>
+    <p><en>the Programming is something new about me I heard that from my closest friend The surprise When he asked for my advice about the field he wanted to choose in his career I always advised him about the world of computers because he was and he still in my eyes a intelligent friend 
        Two years later, my friend in the real world of programming, he learned a lot of important things in programming and coding and became proficient English language 
        now in my eyes he is super star i became very Interested in what my closest friend is doing He inspired me and encouraged me and he gave me a very precious video for beginning learn the programing <a href="https://www.youtube.com/watch?v=F9GujgK0y2M">Coding is not difficult | Mark Zukerberg</a>Everyone encourages you and supports you and All they are confirms you don't must to be a engineer or a genius for start your programing and coding well my friend <strong> WHY NOT </strong> let's we trying .
        he created and explain to me a success program to beginning learn the programming and coding 
