@@ -1,11 +1,9 @@
                                                        
                                                  
 <mian>
-  <img src="https://cdn.pixabay.com/photo/2015/06/23/23/12/hand-819279_960_720.jpg"width="200">
-      <ul>
-        <li><h1> my first project</h1></li>
-         <li>learn the programming and coding on HTML 5</h2></li>
-         <ul>
+  <h1><em> my first project</em></h1>
+       <h2>learn the programming and coding on HTML 5</h2>
+         
    </main>
  <hr>
     <body>  
