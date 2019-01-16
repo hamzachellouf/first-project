@@ -2,7 +2,7 @@
                                                  
 <mian>
   <head>
-    <img src="http://www.lovethispic.com/uploaded_images/136562-Beautiful-Butterfly.jpg" width=100  >
+    <img src="http://www.lovethispic.com/uploaded_images/136562-Beautiful-Butterfly.jpg" width=150 height=300 >
   </head>
   <h1><em> my first project</em></h1>
        <h2>learn the programming and coding on HTML 5</h2>
