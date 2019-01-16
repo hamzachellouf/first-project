@@ -1,12 +1,11 @@
                                                        
-                                                     <!--header-->    
+                                                 
 <mian>
   <img src="https://cdn.pixabay.com/photo/2015/06/23/23/12/hand-819279_960_720.jpg"width="200">
       <ul>
         <li><h1> my first project</h1></li>
          <li>learn the programming and coding on HTML 5</h2></li>
          <ul>
-   
    </main>
  <hr>
     <body>  
