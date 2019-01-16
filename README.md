@@ -25,7 +25,7 @@
                                                                 <!--footer-->
     <footer>
       <p><strong>Posted by:</strong><em> Mr Hamza Chellouf</em> </p>
-      <p>Contact information:<a href="hamza21chellouf@gmail.com">hamza21chellouf@gmail.com</a>
+      <p><strong>Contact information:<//strong><a href="hamza21chellouf@gmail.com">hamza21chellouf@gmail.com</a>
       </footer>
       
                                                             
