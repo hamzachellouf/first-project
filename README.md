@@ -2,7 +2,7 @@
                                                  
 <mian>
   <head>
-    <video surce="videos/7 AWESOME LIFE HACKS!!!!!mp4" autoplay controls>
+    <video surce="video/7 AWESOME LIFE HACKS!!!!!mp4" autoplay controls>
       
   </head>
   <h1><em> my first project</em></h1>
