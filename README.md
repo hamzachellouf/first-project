@@ -9,10 +9,12 @@
      <th>name</th>
      <th>age</th>
      <th>city</th>
+     <th>gender</th>
     </tr>
     <tr>
      <td>ramzi</td>
      <td>26</td>
+     <td>male</td>
      <td>skikda</td>
     </tr>
     </table>
