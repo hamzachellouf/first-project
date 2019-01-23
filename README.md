@@ -14,8 +14,8 @@
     <tr>
      <td>ramzi</td>
      <td>26</td>
-     <td>male</td>
      <td>skikda</td>
+      <td>male</td>
     </tr>
     </table>
     <p><en>the Programming is something new about me I heard that from my closest friend The surprise When he asked for my advice about the field he wanted to choose in his career I always advised him about the world of computers because he was and he still in my eyes a intelligent friend 
