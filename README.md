@@ -1,5 +1,5 @@
  <html>                              
-                        <!--headre--><!--body-->                                                     
+                                                  <!--headre--><!--body-->                                       
  <body>
  <head>
  <h1><em> my first project</em></h1>
@@ -15,7 +15,7 @@
    <a href="https://www.w3schools.com/">W3Schools Online Web Tutorials</a> as he create a count for me on <a href="https://www.freecodecamp.org/">freecodecamp</a>
    i started to learning my first time on coding and programming OMG The first share was very impressive and i found a lot of challenges i call my friend when i need a help and always he be beside me <strong>THANK YOU MY FRIEND </strong>after one week my friend he come to me and he say Hamza you must to prove what you learned on HTML5 and he give me a lovely site <a href="https://github.com/">The world's leading software development platform · GitHub</a> now i keep learning to day i prove to myself and to my friend i can write a some coding and i will learn how i can put pictures  and videos in my project . </en></p>
   </body>
-                                                                <!--footer-->
+                                                        <!--footer-->
     <footer>
       <p><strong>Posted by:</strong><em> Mr Hamza Chellouf</em> </p>
       <p><strong>Contact information:<//strong><a href="hamza21chellouf@gmail.com">hamza21chellouf@gmail.com</a>
