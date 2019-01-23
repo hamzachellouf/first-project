@@ -11,10 +11,10 @@
    
  <body>                                                  
   <tabel>
-     <tr>
-          <th>names</th>
-          <th>age</th>
-          <th>city</th>
+    <tr>
+      <th>names</th>
+       <th>age</th>
+        <th>city</th>
     </tr>
      <tr>
         <td>RAMZI</td>
