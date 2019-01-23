@@ -11,7 +11,9 @@
    
  <body>                                                  
   <tabel>
+   
     <tr>
+    
       <th>names</th>
        <th>age</th>
         <th>city</th>
