@@ -1,16 +1,14 @@
-                                         
-                                                          <!--header-->
-    <head>
-                     
-    <img src="images/Désert" alt= "a desert" width=400 height=251 >
-                       
+                                           <!--header-->
+ <head>                                                    
+  <!--                                                                                       
+    <img src="images/Désert" alt= "a desert" width=400 height=251 > 
+<--
     </head>
         <h1><em> my first project</em></h1>
-         <h2>learn the programming and coding on HTML 5</h2>
-    <hr>     
-      <!--body-->                                                      
+         <h2>learn the programming and coding on HTML 5</h2><hr>     
+                                  <!--body-->                                                      
    
-            <body>                                                  
+ <body>                                                  
   <tabel>
      <tr>
           <th>names</th>
