@@ -1,10 +1,9 @@
-                                                       
-       <html>                                          
+                                         
                                                           <!--header-->
     <head>
-                      <!--
+                     
     <img src="images/Désert" alt= "a desert" width=400 height=251 >
-                       -->
+                       
     </head>
         <h1><em> my first project</em></h1>
          <h2>learn the programming and coding on HTML 5</h2>
@@ -39,7 +38,6 @@
       <p><strong>Posted by:</strong><em> Mr Hamza Chellouf</em> </p>
       <p><strong>Contact information:<//strong><a href="hamza21chellouf@gmail.com">hamza21chellouf@gmail.com</a>
       </footer>
-      </html>
        
 
        
