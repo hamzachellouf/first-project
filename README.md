@@ -3,7 +3,7 @@
 <mian>
                                                           <!--header-->
   <head>
-    <img src="image compta/lion.jpg" alt= "a tiger blue" width=400 height=251 >
+    <img src="lion.jpg/image compta" alt= "a tiger blue" width=400 height=251 >
   </head>
   <h1><em> my first project</em></h1>
        <h2>learn the programming and coding on HTML 5</h2>
