@@ -3,7 +3,7 @@
  <h1><em> my first project</em></h1>
   <h2>learn the programming and coding on HTML 5</h2><hr>                                                   
 <img src="ramzi.jpg" >
-   <img src="https://archive.mid-day.com/photos/plog-content/images/b-town-specials/20-photos-of-katrina-kaif-that-redefine-sexiness/katrina-kaif-n.jpg">
+   <img src="katrina.jpg">
    <table>
     <tr>
      <th>name</th>
