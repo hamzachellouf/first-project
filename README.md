@@ -1,9 +1,8 @@
  <html>
   <body>                                    
- <head>
  <h1><em> my first project</em></h1>
   <h2>learn the programming and coding on HTML 5</h2><hr>                                                   
-  </head>
+<img src="https://static.boredpanda.com/blog/wp-content/uploads/2016/07/funny-men-parody-women-photos-15-5799e76231d15__605.jpg" >
    <table>
     <tr>
      <th>name</th>
