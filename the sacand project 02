@@ -1,1 +1,83 @@
 
+<html>
+
+    <head>
+    
+    <title>forms</title>
+    
+    </head>
+
+    <body>
+    
+    <h1>learng the programing and coding </h1>
+    <h2>how a creat a form tag</h2>
+    
+      <form>
+        
+        <fieldset>
+          
+          
+          <legend>pofil info</legend>
+            
+            <label>enter your name</label>
+            
+            <input type="text" placeholder="enter your name"><br>
+            
+            <label>enter you email</label>
+            
+            <input type="email" placeholder="enter your @mail"><br>
+            
+            <label>enter your password</label>
+            
+            <input type="password" placeholder="your password"><br>
+            
+          <br><br>
+            
+            <label>grender</label><br>
+            
+            <input type="radio" name="grender">male<br>
+            <input type="radio" name="grender">famel<br>
+          
+            <br><br>
+            
+          <label>type of your use</label><br>
+            
+            <input type="checkbox">i have lap top<br>
+            <input type="checkbox">i have a ordunateuer<br>
+            
+            <br><br>
+            
+            <label>age</label><br>
+            
+            <select>
+            
+            <option>0-20</option>
+            <option>20-40</option>
+            <option>40-60</option>
+            <option>60+</option>            
+    
+
+            </select>
+            
+            <br><br>
+            
+            <label>messsage</label><br>
+            
+            <textarea rows="10" cols="50"></textarea>
+            
+        <br><br><br>
+             
+            <label>save my info</label>
+            
+            <input type="submit" value="submit">
+            <label>clear that info</label>
+            
+            <input type="reset" value="clear that info..">
+            
+        
+          </fieldset>
+        
+        
+        </form>
+     </body>
+</html>
